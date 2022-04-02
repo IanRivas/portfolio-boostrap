@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  scroll-behavior: smooth;
+}
+
+li {
+  list-style: none;
+}
+header nav > a {
+  text-decoration: none;
+}
+footer {
+  height: 450px;
+}
+#trabajos div {
+  cursor: pointer;
+}
+#porfolio {
+  height: 700px;
+}
+@media (max-width: 999px) {
+  #porfolio {
+    height: 100%;
+    padding-top: 15px;
+  }
+  #porfolio div {
+    margin: 20px;
+  }
+}
+@media (max-width: 770px) {
+  footer {
+    height: 350px;
+  }
+}
