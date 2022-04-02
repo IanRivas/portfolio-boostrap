@@ -8,3 +8,7 @@ https://ian-rivas.vercel.app/
 https://www.figma.com/file/CpZ56LqUWbsIcIVoRzRouS/bootstrap-portfolio?node-id=0%3A1
 
 ![page](./assets/imagenes/page.jpg)
+
+##Page deployed with Netlify
+
+https://ian-old-portfolio.netlify.app/
